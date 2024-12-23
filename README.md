@@ -4,7 +4,7 @@
 
 ### 🔭 Other repo organizations I am involved in:
 
-[UTHealth Ontology](https://github.com/UTHealth-Ontology)
-[NET EXPO](https://github.com/NET-EXPO)
+- [UTHealth Ontology](https://github.com/UTHealth-Ontology)
+- [NET EXPO](https://github.com/NET-EXPO)
 
 
